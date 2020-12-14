@@ -2,7 +2,9 @@
 
 An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, and Jotunheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
-[comment]: <> ([![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.acvalhallaguide))
+<!---
+[![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.acvalhallaguide)
+-->
 
 # Guides
 * Tips and tricks
