@@ -1,5 +1,49 @@
-# Checklist, Tracker, and Guide - AC Valhalla
+# Checklist, Tracker, and Guide - AC Origins (Coming soon)
 
-An unofficial checklist, progress tracker, and general guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, and Jotunheim and make sure you don't miss out on any quest, collectible, achievement, wealth, mystery, or artifact in the game.
+An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, and Jotunheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
-# Coming soon to Google Play
+[comment]: <> ([![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.acvalhallaguide))
+
+# Guides
+* Tips and tricks
+* Guide to unlocking questlines and DLCs
+* Choices and consequences guide
+* Skills and abilities guide
+* Settlement guide
+* Achievements guide
+* Orlog tips and tricks
+
+
+### Checklists
+* Story quests - 23 sagas (including Asgard and Jotunheim sagas). It also includes choices and consequences guide.
+* Wealth - Books of Knowledge, gear, ingots, and cargo. This includes information on how to get wealth collectibles.
+* Mystery - Animus Anomalies, Cairn stones, Daughters Of Lerion, Fly Agaric puzzles (with solutions), Flyting challenges (with answers), Legendary Animals, Lost Drengrs, Offering Altars (with the offerings required), Standing Stones, Treasures Of Britain, and World Events (with short walkthroughs)
+* Artifacts - Cursed Symbols, Flying Papers, Rigsogur Fragments, Roman Artifacts (with short walkthroughs), and Treasure Hoard Maps (with solutions)
+* Other location activities - Raid locations, Orlog players, and highpoints
+* Gear - Armor sets, Bearded Axes, Daggers, Dane Axes, Flails, Great Swords, Hammers, Spears, Hunter Bows, Light Bows, Predator Bows, Heavy Shields, Light Shields, Raven skins, Horse skins, and Ship cosmetic sets. This also includes how to get each item (including all pieces of armor sets).
+* Order of the Ancients - All members of the Order of the Ancients including their names, locations, and clues to finding them. This information will be hidden by default to avoid spoilers. You can tweak the spoilers in settings.
+* Achievements and Uplay Challenges - All achievements and Uplay Challenges in the game. This also includes the easiest ways to earn certain achievements. You can disable/enable achievements and Uplay Challenges in the settings.
+* Fishes - Names and locations, and best fishing spots to catch all the fishes found in the game.
+* The Legend of Beowulf DLC quests - All missions of the season pass DLC.
+* The Way of the Berserker DLC quests - All missions of the pre-order DLC.
+
+### App Features
+* Light and dark themes
+* Track your progress
+* Option to include/exclude DLCs in total progress
+* Option to move checked items to the bottom of lists
+* Option to hide/show secret achievements
+* Option to reset lists
+
+
+### Screenshots
+Coming soon
+
+
+### Notes
+Please note that this is a third party, fan-made application. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
+Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/).
+
+
+### Legal
+View the [Privacy Policy](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/tree/main/legal).
