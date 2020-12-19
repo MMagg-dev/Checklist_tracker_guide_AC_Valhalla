@@ -18,7 +18,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 
 ### Checklists
 * Story quests - 23 sagas (including Asgard and Jotunheim sagas). It also includes choices and consequences guide.
-* Wealth - Books of Knowledge, gear, ingots, and cargo. This includes information on how to get wealth collectibles.
+* Wealth - Books of Knowledge, gear, ingots, cargo, Ymir’s Tear Stones, and Ymir's Blood Stones. This includes information on how to get wealth collectibles.
 * Mystery - Animus Anomalies, Cairn stones, Daughters Of Lerion, Fly Agaric puzzles (with solutions), Flyting challenges (with answers), Legendary Animals, Lost Drengrs, Offering Altars (with the offerings required), Standing Stones, Treasures Of Britain, and World Events (with short walkthroughs)
 * Artifacts - Cursed Symbols, Flying Papers, Rigsogur Fragments, Roman Artifacts (with short walkthroughs), and Treasure Hoard Maps (with solutions)
 * Other location activities - Raid locations, Orlog players, and highpoints
