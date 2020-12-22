@@ -1,4 +1,4 @@
-# Guide and Checklist - AC Valhalla (Releasing on 22nd Dec, 2020)
+# Guide and Checklist - AC Valhalla (Coming soon)
 
 An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, and Jotunheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
