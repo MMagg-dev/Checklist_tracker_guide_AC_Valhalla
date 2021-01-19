@@ -50,11 +50,3 @@ Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik
 
 ### Legal
 View the [Privacy Policy](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/tree/main/legal).
-
-### Future updates
-The following features will be released in future updates -
-* Sorting location activities by type
-* Provide reviews in-app without moving to Google Play
-* More information about various location activities
-* Any addition quest/gear/collectible that will become available in the future
-* Information about additional DLCs that will be released in the future
