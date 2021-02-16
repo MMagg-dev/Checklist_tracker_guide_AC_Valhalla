@@ -50,3 +50,11 @@ Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik
 
 ### Legal
 View the [Privacy Policy](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/tree/main/legal).
+
+
+### Features coming soon
+* More information about getting ingots, Ymir's Blood Stones, and Ymir's Tear Stones
+* Images for all gear items (so that they are easier to identify)
+* Possible translations for French, Spanish, German (if information is available online for better translations)
+* Information about future title updates
+* Guides and checklists for upcoming DLCs - Wrath of the Druids, The Seige of Paris, and Discovery Tour
