@@ -27,6 +27,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Fishes - Names and locations, and best fishing spots to catch all the fishes found in the game.
 * The Legend of Beowulf DLC quests - All missions of the season pass DLC.
 * The Way of the Berserker DLC quests - All missions of the pre-order DLC.
+* In game festivals - Quests and gear available for Yule festival and Ostara festival
 
 ### App Features
 * Images of gear items so they can be identified easily
