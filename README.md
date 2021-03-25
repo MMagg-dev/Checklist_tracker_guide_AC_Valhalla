@@ -39,7 +39,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 
 
 ### Screenshots
-![Guide Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/1_screenshot_light_guide_dashboard.png)     ![Settlement Guide Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/2_screenshot_light_guide_info_settlement.png)
+![Guide Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/1_screenshot_light_guide_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settlement Guide Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/2_screenshot_light_guide_info_settlement.png)
 ![Checklist Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/3_screenshot_light_checklist_dashboard.png)      ![Main Quests Saga 1 Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/4_screenshot_light_main_quests_saga_01.png)
 ![Wealth Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/5_screenshot_dark_rygjafylke_wealth.png)    ![Bows Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/6_screenshot_dark_gear_hunter_bow_list.png)
 ![Bow Detail Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/7_screenshot_dark_bow_info.png)    ![Achievements Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/8_screenshot_dark_achievements.png)
