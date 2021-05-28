@@ -19,8 +19,10 @@ Link to Terms and Conditions of third party service providers used by the app
 * [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 * [AdMob](https://developers.google.com/admob/terms)
-* [InMobi](https://www.inmobi.com/page/opt-out)
 
+The following third party service providers are used in versions 2.0.0 and above of the application - 
+* [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+* [MoPub](https://www.mopub.com/en/legal/tos)
 
 You should be aware that there are certain things that developer will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but the developer cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.  
 \
@@ -37,3 +39,6 @@ The developer may update the terms of use from time to time. Thus, you are advis
 
 ### Contact
 If you have any questions or suggestions about this Terms of Use document, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change Logs
+* 28th May, 2021 - added Facebook, MoPub, and Vungle to the application as third party service providers. Removed InMobi as a third party service provider from the application.
