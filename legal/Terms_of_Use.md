@@ -41,4 +41,4 @@ The developer may update the terms of use from time to time. Thus, you are advis
 If you have any questions or suggestions about this Terms of Use document, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
 
 ### Change Logs
-* 28th May, 2021 - added Facebook, MoPub, and Vungle to the application as third party service providers. Removed InMobi as a third party service provider from the application.
+* 28th May, 2021 - added Facebook and MoPub to the application as third party service providers. Removed InMobi as a third party service provider from the application.
