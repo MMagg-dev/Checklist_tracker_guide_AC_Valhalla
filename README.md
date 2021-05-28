@@ -1,6 +1,6 @@
 # Guide and Checklist - AC Valhalla
 
-An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, and Jotunheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
+An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, Jotunheim, and Ireland and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.acvalhallaguide)
 
@@ -13,6 +13,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Achievements guide
 * Orlog tips and tricks
 * River raids guide
+* Wrath of the Druids DLC guide
 
 
 ### Checklists
@@ -25,18 +26,24 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Order of the Ancients - All members of the Order of the Ancients including their names, locations, and clues to finding them. This information will be hidden by default to avoid spoilers. You can tweak the spoilers in settings.
 * Achievements and Uplay Challenges - All achievements and Uplay Challenges in the game. This also includes the easiest ways to earn certain achievements. You can disable/enable achievements and Uplay Challenges in the settings.
 * Fishes - Names and locations, and best fishing spots to catch all the fishes found in the game.
+* Hunting and Fishing Deliveries - All the items needed to complete all the hunting and fishing deliveries. Includes note about where to find the animals and fishes.
 * The Legend of Beowulf DLC quests - All missions of the season pass DLC.
 * The Way of the Berserker DLC quests - All missions of the pre-order DLC.
 * In game festivals - Quests and gear available for Yule festival and Ostara festival
+* Wrath of the Druids DLC quests - All the story quests related to the DLC. It also includes choices and consequences guides.
+* Wrath of the Druids DLC side quests - All the side quests for the DLC.
+* Wrath of the Druids location activities - all wealth, artifacts, mysteries, trade posts, raid locations, and viewpoints in Ireland.
+* Children of Danu - All members of the Children of Danu including their names, locations, and clues to finding them
 
 ### App Features
 * Images of gear items so they can be identified easily
+* Parts of armor sets can be checked individually
 * Light and dark themes
 * Track your progress
 * Option to include/exclude DLCs in total progress
 * Option to move checked items to the bottom of lists
 * Option to hide/show secret achievements
-* Option to reset lists
+* Option to check off and reset lists
 
 
 ### Screenshots
@@ -56,7 +63,6 @@ View the [Privacy Policy](https://github.com/MMagg-dev/Checklist_tracker_guide_A
 
 
 ### Features coming soon
-* More information about getting ingots, Ymir's Blood Stones, and Ymir's Tear Stones
 * Possible translations for French, Spanish, German (if information is available online for better translations)
 * Information about future title updates
-* Guides and checklists for upcoming DLCs - Wrath of the Druids, The Seige of Paris, and Discovery Tour
+* Guides and checklists for upcoming DLCs - The Seige of Paris, and Discovery Tour
