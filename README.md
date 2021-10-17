@@ -27,6 +27,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Walkthroughs for solving mysteries and collecting wealth, artifacts
 * Choices and consequences guide for main game and DLCs
 * Various guides for a better gaming experience
+* Search feature for searching all the checklists
 * Light and dark themes
 * Track your progress
 * Images of armor sets, weapons, shields, and fishes
