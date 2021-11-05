@@ -7,6 +7,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 ### DLCs include
 * The Siege of Paris
 * Wrath of the Druids
+* Discovery Tour: Viking Age
 * The Way of the Berserker
 * The Legend of Beowulf
 
@@ -40,22 +41,22 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 
 ### Checklists
 * Story quests, in-game festivals, River Raids, and mastery challenges. It comes with a choices and consequences guide.
-* Wealth, mysteries, and artifacts</b> along with Orlog players, raid locations, and viewpoints. Includes -'
+* Wealth, mysteries, and artifacts along with Orlog players, raid locations, and viewpoints. Includes -'
     * Fly Agaric puzzles with solutions
     * Flyting challenges with answers
     * World events with walkthroughs
     * Treasure hoard maps with solutions
     * Walkthroughs for getting other collectibles
 
-* Gear and cosmetics</b> - details and images of all armor sets, weapons, shields, raven skins, horse skins, ship cosmetic sets, and tattoo sets.
-* Order of the Ancients</b> - All members of the Order of the Ancients including their names, locations, and clues to finding them.
-* Achievements and Uplay Challenges</b> - All achievements and Uplay Challenges in the game. This also includes the easiest ways to earn certain achievements.
-* Fishes</b> - Names and locations, and best fishing spots.
-* Hunting and Fishing Deliveries</b> - All the items needed to complete all the hunting and fishing deliveries.
-* The Legend of Beowulf DLC quests</b> - All missions of the season pass DLC.
-* The Way of the Berserker DLC quests</b> - All missions of the pre-order DLC.
+* Gear and cosmetics - details and images of all armor sets, weapons, shields, raven skins, horse skins, ship cosmetic sets, and tattoo sets.
+* Order of the Ancients - All members of the Order of the Ancients including their names, locations, and clues to finding them.
+* Achievements and Uplay Challenges - All achievements and Uplay Challenges in the game. This also includes the easiest ways to earn certain achievements.
+* Fishes - Names and locations, and best fishing spots.
+* Hunting and Fishing Deliveries - All the items needed to complete all the hunting and fishing deliveries.
+* The Legend of Beowulf DLC quests - All missions of the season pass DLC.
+* The Way of the Berserker DLC quests - All missions of the pre-order DLC.
 
-* Wrath of the Druids DLC</b> content includes - 
+* Wrath of the Druids DLC content includes - 
     * Quests with choices and consequences
     * Side quests
     * Children of Danu with clues on finding them
@@ -65,7 +66,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
     * Raven skins, horse skins, ship cosmetic sets, tattoo sets
     * Achievements and Uplay challenges
 
-* The Siege of Paris DLC</b> content includes - 
+* The Siege of Paris DLC content includes - 
     * Quests with choices and consequences
     * Wealth, mysteries, artifacts
     * Raid locations, viewpoints
@@ -73,12 +74,16 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
     * Raven skins, horse skins, ship cosmetic sets, tattoo sets
     * Achievements and Uplay challenges
 
+* Discovery Tour: Viking Age content includes - 
+    * Quests
+    * Gear and cosmetics
+
 
 ### Screenshots
-![Guide Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/1_screenshot_light_guide_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settlement Guide Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/2_screenshot_light_guide_info_settlement.png)
-![Checklist Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/3_screenshot_light_checklist_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Quests Saga 1 Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/4_screenshot_light_main_quests_saga_01.png)
-![Wealth Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/5_screenshot_dark_rygjafylke_wealth.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bows Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/6_screenshot_dark_gear_hunter_bow_list.png)
-![Bow Detail Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/7_screenshot_dark_bow_info.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/8_screenshot_dark_achievements.png)
+![Guide Dashboard Light]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settlement Guide Light]()
+![Checklist Dashboard Light]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Quests Saga 1 Light]()
+![Wealth Dark]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bows Dark]()
+![Bow Detail Dark]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Dark]()
 
 
 ### Notes
