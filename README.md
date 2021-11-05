@@ -80,10 +80,10 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 
 
 ### Screenshots
-![Guide Dashboard Light]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settlement Guide Light]()
-![Checklist Dashboard Light]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Quests Saga 1 Light]()
-![Wealth Dark]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bows Dark]()
-![Bow Detail Dark]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Dark]()
+![Guide Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/1_screenshot_light_guide_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Settlement Guide Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/2_screenshot_light_guide_info_settlement.png)
+![Checklist Dashboard Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/3_screenshot_light_checklist_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Quests Saga 4 Light](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/4_screenshot_light_main_quests_saga_04.png)
+![Wealth Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/5_screenshot_dark_ledecesterscire_wealth.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Flail Detail Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/6_screenshot_dark_gear_image.png)
+![SoP Quest Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/7_screenshot_dark_paris_quests.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements Dark](https://github.com/MMagg-dev/Checklist_tracker_guide_AC_Valhalla/blob/main/screenshots/8_screenshot_dark_achievements.png)
 
 
 ### Notes
