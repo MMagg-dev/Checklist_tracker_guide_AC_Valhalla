@@ -10,6 +10,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Discovery Tour: Viking Age
 * The Way of the Berserker
 * The Legend of Beowulf
+* A Fated Encounted (AC Valhalla x AC Odyssey Crossover Stories)
 
 
 ### Guides
@@ -77,6 +78,11 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * Discovery Tour: Viking Age content includes - 
     * Quests
     * Gear and cosmetics
+
+* A Fated Encounter (AC Valhalla x AC Odyssey Crossover Stories)
+    * Quests
+    * Gear and cosmetics
+    * Isle of Skye location activities - wealth, mystery, artifacts, viewpoints
 
 
 ### Screenshots
