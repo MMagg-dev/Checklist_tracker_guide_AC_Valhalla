@@ -15,10 +15,19 @@ The application uses third party services that may collect information used to i
 * [AdColony](https://www.adcolony.com/privacy-policy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-The following third party service provider may collect information and identify you in versions 2.0.0 and above of the application -
+The following third party service providers may collect information and identify you in versions 2.0.0 and above of the application -
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
+
+The following third party service provider may collect information and identify you in versions 2.7.0 and above of the application - 
+* [AppLovin](https://www.applovin.com/privacy/)
+
+The following third-party service providers have been removed and therefore will not collect any information or identification in versions 2.7.0 and above of the application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
+
 
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
@@ -52,3 +61,4 @@ If you have any questions or suggestions about this privacy policy, do not hesit
 
 ### Change Logs
 * 28th May, 2021 - updated for information collection and third party usage by Facebook, MoPub, and Vungle. In addition, InMobi has been removed as a third party which can collect information.
+* 17th March, 2022 - updated for information collection and usage by third-party service provider by AppLovin. In addition, AdColony, MoPub, and Vungle have been removed as third parties that can collect information.
