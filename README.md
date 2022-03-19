@@ -1,10 +1,11 @@
 # Guide and Checklist - AC Valhalla
 
-An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, Jotunheim, Ireland, and Francia and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
+An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, Jotunheim, Ireland, Francia, and Svartalfheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.acvalhallaguide)
 
 ### DLCs include
+* Dawn of Ragnarok
 * The Siege of Paris
 * Wrath of the Druids
 * Discovery Tour: Viking Age
@@ -83,6 +84,16 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
     * Quests
     * Gear and cosmetics
     * Isle of Skye location activities - wealth, mystery, artifacts, viewpoints
+
+
+* Dawn of Ragnarok DLC content includes - 
+    * Quests with choices and consequences
+    * Side quests
+    * Wealth, mysteries, artifacts
+    * Monoliths, raid locations, viewpoints
+    * Armor sets, weapons, shields
+    * Raven skins, horse skins, ship cosmetic sets, tattoo sets
+    * Achievements and Uplay challenges
 
 
 ### Screenshots
