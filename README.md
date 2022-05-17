@@ -25,6 +25,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * River raids guide
 * Wrath of the Druids DLC guide
 * The Siege of Paris DLC guide
+* Dawn of Ragnarok DLC Guide
 
 ### Features
 * Walkthroughs for solving mysteries and collecting wealth, artifacts
