@@ -12,6 +12,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * The Way of the Berserker
 * The Legend of Beowulf
 * A Fated Encounted (AC Valhalla x AC Odyssey Crossover Stories)
+* The Forgotten Saga
 
 
 ### Guides
@@ -25,7 +26,8 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * River raids guide
 * Wrath of the Druids DLC guide
 * The Siege of Paris DLC guide
-* Dawn of Ragnarok DLC Guide
+* Dawn of Ragnarok DLC guide
+* The Forgotten Saga guide
 
 ### Features
 * Walkthroughs for solving mysteries and collecting wealth, artifacts
