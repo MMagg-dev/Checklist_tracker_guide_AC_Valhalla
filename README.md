@@ -13,6 +13,8 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 * The Legend of Beowulf
 * A Fated Encounted (AC Valhalla x AC Odyssey Crossover Stories)
 * The Forgotten Saga
+* Shared History
+* The Last Chapter
 
 
 ### Guides
@@ -45,7 +47,7 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
 
 
 ### Checklists
-* Story quests, in-game festivals, River Raids, and mastery challenges. It comes with a choices and consequences guide.
+* Story quests, River Raids, Tombs of the Fallen, and mastery challenges. It comes with a choices and consequences guide.
 * Wealth, mysteries, and artifacts along with Orlog players, raid locations, and viewpoints. Includes -'
     * Fly Agaric puzzles with solutions
     * Flyting challenges with answers
@@ -88,7 +90,6 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
     * Gear and cosmetics
     * Isle of Skye location activities - wealth, mystery, artifacts, viewpoints
 
-
 * Dawn of Ragnarok DLC content includes - 
     * Quests with choices and consequences
     * Side quests
@@ -97,6 +98,19 @@ An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhal
     * Armor sets, weapons, shields
     * Raven skins, horse skins, ship cosmetic sets, tattoo sets
     * Achievements and Uplay challenges
+    
+* The Forgotten Saga content includes - 
+    * Quests
+    * Weapons, shields, and skins
+    * Achievements and Uplay challenges
+ 
+* Shared History content includes
+    * Quests
+    
+* The Last Chapter content includes - 
+    * Quests
+    * Weapons and skins
+    * Updates to in-game festival content
 
 
 ### Screenshots
