@@ -2,6 +2,8 @@
 
 An unofficial checklist, progress tracker, and guide for Assassin's Creed Valhalla game. Explore Norway, England, Vinland, Asgard, Jotunheim, Ireland, Francia, and Svartalfheim and make sure you don't miss out on any quest, collectible, achievement, or gear in the game.
 
+**This app is not available on any app store.**
+
 ### DLCs include
 * Dawn of Ragnarok
 * The Siege of Paris
